@@ -6,17 +6,20 @@ Este projeto demonstra a implementação prática de diferentes estratégias de 
 
 ##  Estrutura do Projeto
 
+```
 estrategias_chunkings/
 ├── src/
-│ └── estrategias_chunkings/
-│ ├── ChunkfixedSize.py
-│ ├── ChunkSlidingWindowChunking.py
-│ ├── ChunkRecursiveCharacterTextSplitting.py
-│ ├── ChunkSemantic.py
-│ └── ChunkHiererchical.py
+│   └── estrategias_chunkings/
+│       ├── ChunkfixedSize.py
+│       ├── ChunkSlidingWindowChunking.py
+│       ├── ChunkRecursiveCharacterTextSplitting.py
+│       ├── ChunkSemantic.py
+│       └── ChunkHiererchical.py
 ├── tests/
 ├── pyproject.toml
 └── README.md
+```
+
 
 ## Estratégias Implementadas
 
